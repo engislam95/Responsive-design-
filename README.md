@@ -1,4 +1,4 @@
-# Responsive-design-
+# Responsive design with bootstrap 4
 
 this my responsive design with bootstrap 4 
 
